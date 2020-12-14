@@ -2,13 +2,11 @@
 
 ### To start the app, follow the below steps:
 
- - **Clone the repo using the below command:**
-
-> git clone git@github.com:shreyashah115/PizzaHere.git
+ - **Clone the repo**
 
  - **Go to the cloned directory, create a virtaul environment and activate it:**
 
-> cd PizzaHere/
+> cd pizza-bot/
 > virtualenv -p python3 myenv
 > source myenv/bin/activate
 
